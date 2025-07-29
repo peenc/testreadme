@@ -75,7 +75,7 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 
 
 ### 🔑 Tela de Login  
-![Login](<img width="1919" height="961" alt="Image" src="https://github.com/user-attachments/assets/2b18fad3-8b8e-424b-89e3-40524f798bbe" />)
+<img width="1919" height="961" alt="Image" src="https://github.com/user-attachments/assets/2b18fad3-8b8e-424b-89e3-40524f798bbe" />
 
 ### 👛 Página da Carteira  
 ![Carteira](docs/carteira.png)
