@@ -77,12 +77,12 @@ Exibe o saldo atual de tickets e com opção para compra de novos tickets.
 <img width="986" height="723" alt="Image" src="https://github.com/user-attachments/assets/615fb395-9ff4-44c0-b7de-e58b0de792b9" />
 
 
-### 🍽️ Página do Usuário  
+### 👤 Página do Usuário  
 Mostra as informações pessoais do usuário e permite edição de dados como e-mail, senha e imagem de perfil.
 <img width="982" height="803" alt="Image" src="https://github.com/user-attachments/assets/93991348-68da-4305-a64e-90819c6d45f5" />
 
 
-### 🍽️ Página do QRCode  
+### 🔑 Página do QRCode  
 Gera um QR Code único por usuário para autenticação no restaurante universitário.
 <img width="987" height="731" alt="Image" src="https://github.com/user-attachments/assets/010fe980-a781-47c9-bb62-cda05bf4e272" />
 
