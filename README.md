@@ -18,7 +18,7 @@ Modernizar e automatizar o processo de compra e utilização de tickets no resta
 
 ## 📅 Metodologia de Desenvolvimento
 
-O sistema foi desenvolvido seguindo uma abordagem incremental, com as seguintes etapas principais:
+O desenvolvimento seguiu uma abordagem incremental, dividido nas seguintes etapas principais:
 
 1. Levantamento de requisitos e estudo de viabilidade;
 2. Escolha da arquitetura e definição de tecnologias;
@@ -144,7 +144,10 @@ git clone https://github.com/uLennon/Capiwallet.git
 
 3. Configure o arquivo application.properties com suas credenciais;
 
-4. Execute o projeto
+4. Execute o projeto com o Maven:
+```bash
+./mvnw spring-boot:run
+```
 
 ## 👨‍💻 Autores
 
