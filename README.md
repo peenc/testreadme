@@ -22,6 +22,9 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ZXing](https://img.shields.io/badge/ZXing-000000?style=for-the-badge&logo=qr-code&logoColor=white)
+![iText PDF](https://img.shields.io/badge/iText-PDF-FF6F61?style=for-the-badge&logo=adobe&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache_POI-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 
 </div>
 
@@ -37,7 +40,7 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 - [x] Visualização de saldo de tickets e histórico de uso
 - [x] Geração de **QR Codes** para autenticação no restaurante
 - [x] Painel administrativo com gestão de vendas e permissões
-- [x] Geração automática de **relatórios diários** de vendas
+- [x] Geração de relatórios diários em formato PDF e Excel para controle administrativo
 - [x] Acompanhamento de atividades do sistema e dos usuários
 - [x] Interface responsiva e intuitiva para acesso via celular e desktop
 - [x] Alertas visuais e por e-mail sobre status de tickets e ações importantes
