@@ -53,15 +53,6 @@ Modernizar e automatizar o processo de compra e utilização de tickets no resta
 
 ---
 
-## 🔐 Autenticação e Segurança
-
-- Autenticação baseada em **HttpSession**
-- Controle de acesso por **roles (usuario, administrador, tecnico)**
-- Redirecionamentos e filtros com base nas permissões
-- Proteção contra acesso não autorizado em páginas críticas
-
----
-
 ## 🧱 Arquitetura
 
 - Foi realizado um estudo comparativo entre arquiteturas de **microsserviços** e **monolítica**.
@@ -72,6 +63,15 @@ Modernizar e automatizar o processo de compra e utilização de tickets no resta
   - `Repository`
   - `Model`
 - Utilização de **Spring Data JPA** para abstração do acesso ao banco de dados.
+
+---
+
+## 🔐 Autenticação e Segurança
+
+- Autenticação baseada em **HttpSession**
+- Controle de acesso por **roles (usuario, administrador, tecnico)**
+- Redirecionamentos e filtros com base nas permissões
+- Proteção contra acesso não autorizado em páginas críticas
 
 ---
 
