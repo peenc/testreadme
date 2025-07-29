@@ -16,6 +16,16 @@ Modernizar e automatizar o processo de compra e utilização de tickets no resta
 
 ---
 
+## 📅 Metodologia de Desenvolvimento
+
+O sistema foi desenvolvido seguindo uma abordagem incremental, com as seguintes etapas principais:
+
+1. Levantamento de requisitos e estudo de viabilidade;
+2. Escolha da arquitetura e definição de tecnologias;
+3. Desenvolvimento iterativo com testes manuais e automatizados;
+4. Validação com usuários simulados;
+5. Documentação e entrega final.
+
 ## 🛠️ Tecnologias Utilizadas
 
 <div style="display: flex; gap: 10px;">
@@ -75,6 +85,14 @@ Modernizar e automatizar o processo de compra e utilização de tickets no resta
 
 ---
 
+## 🧪 Testes
+
+- Testes unitários com JUnit para regras de negócio;
+- Testes de integração entre camadas com Spring Boot Test;
+- Testes manuais para validação de interface e fluxos de uso;
+- Simulação de uso por diferentes tipos de usuários (aluno, técnico, administrador).
+
+
 ## 🖼️ Imagens do Sistema
 
 ### 🔑 Tela de Login  
@@ -110,8 +128,20 @@ Representa os principais atores (usuário, administrador, técnico) e os casos d
 Mostra a estrutura das classes, atributos e relacionamentos no backend do sistema.
 <img width="946" height="1266" alt="Image" src="https://github.com/user-attachments/assets/68e6ac48-b5d3-4015-86b8-cc6faf539e48" />
 
-
 ---
+
+## 📥 Como Executar Localmente
+
+Requer Java 21 e MySQL 8.0+
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/uLennon/Capiwallet.git
+Configure o banco de dados MySQL local com o schema esperado;
+
+Configure o arquivo application.properties com suas credenciais;
+
+Execute o projeto
 
 ## 👨‍💻 Autores
 
