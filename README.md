@@ -26,27 +26,6 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 </div>
 
 ---
-
-## 🔐 Autenticação e Segurança
-
-- Autenticação baseada em **HttpSession**
-- Controle de acesso por **roles (usuario, administrador, tecnico)**
-- Redirecionamentos e filtros com base nas permissões
-- Proteção contra acesso não autorizado em páginas críticas
-
----
-
-## 🧱 Arquitetura
-
-- Projeto em **arquitetura monolítica**
-- Camadas bem definidas:
-  - `Controller`
-  - `Service`
-  - `Repository`
-  - `Model`
-- Utilização de **Spring Data JPA** para abstração do acesso ao banco
-
----
 ## 📦 Funcionalidades
 
 ### 👤 Usuário
@@ -70,7 +49,27 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 - [x] Interface responsiva e intuitiva para acesso via celular e desktop
 - [x] Alertas visuais e por e-mail sobre status de tickets e ações importantes
 
+---
 
+## 🔐 Autenticação e Segurança
+
+- Autenticação baseada em **HttpSession**
+- Controle de acesso por **roles (usuario, administrador, tecnico)**
+- Redirecionamentos e filtros com base nas permissões
+- Proteção contra acesso não autorizado em páginas críticas
+
+---
+
+## 🧱 Arquitetura
+
+- Projeto em **arquitetura monolítica**
+- Camadas bem definidas:
+  - `Controller`
+  - `Service`
+  - `Repository`
+  - `Model`
+- Utilização de **Spring Data JPA** para abstração do acesso ao banco
+  
 ---
 
 ## 🖼️ Imagens do Sistema
