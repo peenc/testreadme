@@ -26,6 +26,7 @@ O sistema foi desenvolvido seguindo uma abordagem incremental, com as seguintes 
 4. Validação com usuários simulados;
 5. Documentação e entrega final.
 
+---
 ## 🛠️ Tecnologias Utilizadas
 
 <div style="display: flex; gap: 10px;">
