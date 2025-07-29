@@ -140,11 +140,11 @@ Requer Java 21 e MySQL 8.0+
 ```bash
 git clone https://github.com/uLennon/Capiwallet.git
 ```
-Configure o banco de dados MySQL local com o schema esperado;
+2. Configure o banco de dados MySQL local com o schema esperado;
 
-Configure o arquivo application.properties com suas credenciais;
+3. Configure o arquivo application.properties com suas credenciais;
 
-Execute o projeto
+4. Execute o projeto
 
 ## 👨‍💻 Autores
 
