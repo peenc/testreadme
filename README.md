@@ -28,24 +28,17 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 ---
 ## 📦 Funcionalidades
 
-### 👤 Usuário
 - [x] Cadastro e login de usuários
 - [x] Edição de dados de perfil (nome, e-mail, senha e foto)
 - [x] Recuperação de senha por e-mail com link de alteração
 - [x] Disparo automático de e-mails informativos (compra de tickets, saldo baixo, etc.)
-
-### 🎫 Tickets
 - [x] Compra de tickets de forma presencial ou digital
 - [x] Integração com a **API Pix do Banco do Brasil** para pagamentos
 - [x] Visualização de saldo de tickets e histórico de uso
 - [x] Geração de **QR Codes** para autenticação no restaurante
-
-### 🛠️ Administração
 - [x] Painel administrativo com gestão de vendas e permissões
 - [x] Geração automática de **relatórios diários** de vendas
 - [x] Acompanhamento de atividades do sistema e dos usuários
-
-### 📱 Interface e experiência
 - [x] Interface responsiva e intuitiva para acesso via celular e desktop
 - [x] Alertas visuais e por e-mail sobre status de tickets e ações importantes
 
