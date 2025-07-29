@@ -55,14 +55,15 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 
 ## 🧱 Arquitetura
 
-- Projeto em **arquitetura monolítica**
+- Foi realizado um estudo comparativo entre arquiteturas de **microsserviços** e **monolítica**.
+- Optou-se pela arquitetura **monolítica** devido ao tamanho do projeto, facilidade de desenvolvimento, menor complexidade na implantação e manutenção, além de atender adequadamente às necessidades do sistema.
 - Camadas bem definidas:
   - `Controller`
   - `Service`
   - `Repository`
   - `Model`
-- Utilização de **Spring Data JPA** para abstração do acesso ao banco
-  
+- Utilização de **Spring Data JPA** para abstração do acesso ao banco de dados.
+
 ---
 
 ## 🖼️ Imagens do Sistema
