@@ -2,7 +2,10 @@
 
 Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) por **Pedro Nunes Cardoso** e **Lennon Ferreira Machado**, intitulado:
 
-**Capiwallet: Um Sistema Web de Carteira Digital para o Restaurante Universitário da UFRRJ**
+**Capiwallet: Um Sistema Web de Carteira Digital para o Restaurante Universitário da UFRRJ**.
+
+O projeto foi desenvolvido utilizando **Spring Boot 3.3.2**, **Java 21** e **MySQL 8.0.28**.
+
 
 ---
 
@@ -88,10 +91,7 @@ O desenvolvimento seguiu uma abordagem incremental, dividido nas seguintes etapa
 
 ## 🧪 Testes
 
-- Testes unitários com JUnit para regras de negócio;
-- Testes de integração entre camadas com Spring Boot Test;
-- Testes manuais para validação de interface e fluxos de uso;
-- Simulação de uso por diferentes tipos de usuários (aluno, técnico, administrador).
+- Testes unitários com Junit e Mockito.
 
 ---
 
@@ -142,7 +142,7 @@ git clone https://github.com/uLennon/Capiwallet.git
 ```
 2. Configure o banco de dados MySQL local com o schema esperado;
 
-3. Configure o arquivo application.properties com suas credenciais;
+3. Copie o arquivo application-example.yml, renomeie para application.yml e substitua os valores de exemplo pelas suas credenciais reais;
 
 4. Execute o projeto com o Maven:
 ```bash
@@ -151,12 +151,5 @@ git clone https://github.com/uLennon/Capiwallet.git
 
 ## 👨‍💻 Autores
 
-- Pedro Nunes Cardoso  
 - Lennon Ferreira Machado  
-
----
-
-## ⚠️ Licença
-
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos.  
-**É proibida sua reprodução, distribuição ou uso comercial sem autorização dos autores.**
+- Pedro Nunes Cardoso 
