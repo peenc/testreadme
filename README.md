@@ -1,12 +1,18 @@
 # 💳 Capiwallet
 
-Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), intitulado **Capiwallet: Um Sistema Web de Carteira Digital para o Restaurante Universitário da UFRRJ**, por **Pedro Nunes Cardoso** e **Lennon Ferreira Machado**.
+Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) por **Pedro Nunes Cardoso** e **Lennon Ferreira Machado**, intitulado:
 
-O objetivo do projeto é modernizar e automatizar o controle de acesso e consumo no restaurante universitário.
+**Capiwallet: Um Sistema Web de Carteira Digital para o Restaurante Universitário da UFRRJ**
 
-## 🎯 Objetivo
+---
 
-Digitalizar e otimizar o processo de compra e utilização de tickets no restaurante universitário, através de uma **carteira virtual integrada**, facilitando o uso por parte dos alunos e o gerenciamento pela equipe administrativa.
+## 🎯 Propósito
+
+Modernizar e automatizar o processo de compra e utilização de tickets no restaurante universitário, por meio de uma **carteira digital integrada**. O sistema visa:
+
+- Facilitar o uso por parte dos estudantes;
+- Agilizar o controle de acesso ao restaurante;
+- Otimizar o gerenciamento interno pela equipe administrativa.
 
 ---
 
