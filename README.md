@@ -93,6 +93,7 @@ O sistema foi desenvolvido seguindo uma abordagem incremental, com as seguintes 
 - Testes manuais para validação de interface e fluxos de uso;
 - Simulação de uso por diferentes tipos de usuários (aluno, técnico, administrador).
 
+---
 
 ## 🖼️ Imagens do Sistema
 
