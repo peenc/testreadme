@@ -28,7 +28,7 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
 ## 🔐 Autenticação e Segurança
 
 - Autenticação baseada em **HttpSession**
-- Controle de acesso por **roles (usuário, administrador, operador)**
+- Controle de acesso por **roles (usuario, administrador, tecnico)**
 - Redirecionamentos e filtros com base nas permissões
 - Proteção contra acesso não autorizado em páginas críticas
 
@@ -41,27 +41,41 @@ Digitalizar e otimizar o processo de compra e utilização de tickets no restaur
   - `Controller`
   - `Service`
   - `Repository`
-  - `Entity`
+  - `Model`
 - Utilização de **Spring Data JPA** para abstração do acesso ao banco
 
 ---
-
 ## 📦 Funcionalidades
 
+### 👤 Usuário
 - [x] Cadastro e login de usuários
-- [x] Compra de tickets digitalmente com saldo da carteira
-- [x] Visualização de saldo e histórico de tickets
-- [x] Geração de QR Code para validação no restaurante
-- [x] Painel administrativo para gestão de vendas e permissões
+- [x] Edição de dados de perfil (nome, e-mail, senha e foto)
+- [x] Recuperação de senha por e-mail com link de alteração
+- [x] Disparo automático de e-mails informativos (compra de tickets, saldo baixo, etc.)
+
+### 🎫 Tickets
+- [x] Compra de tickets de forma presencial ou digital
+- [x] Integração com a **API Pix do Banco do Brasil** para pagamentos
+- [x] Visualização de saldo de tickets e histórico de uso
+- [x] Geração de **QR Codes** para autenticação no restaurante
+
+### 🛠️ Administração
+- [x] Painel administrativo com gestão de vendas e permissões
+- [x] Geração automática de **relatórios diários** de vendas
+- [x] Acompanhamento de atividades do sistema e dos usuários
+
+### 📱 Interface e experiência
+- [x] Interface responsiva e intuitiva para acesso via celular e desktop
+- [x] Alertas visuais e por e-mail sobre status de tickets e ações importantes
+
 
 ---
 
 ## 🖼️ Imagens do Sistema
 
-> Substitua os caminhos abaixo pelas suas próprias imagens (por exemplo, `docs/login.png`).
 
 ### 🔑 Tela de Login  
-![Login](docs/login.png)
+![Login](<img width="1919" height="961" alt="Image" src="https://github.com/user-attachments/assets/2b18fad3-8b8e-424b-89e3-40524f798bbe" />)
 
 ### 👛 Página da Carteira  
 ![Carteira](docs/carteira.png)
