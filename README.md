@@ -4,7 +4,7 @@ Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) por **Pedro Nune
 
 **Capiwallet: Um Sistema Web de Carteira Digital para o Restaurante Universitário da UFRRJ**.
 
-O projeto foi desenvolvido utilizando **Spring Boot 3.3.2**, **Java 21** e **MySQL 8.0.28**.
+O projeto foi desenvolvido utilizando **Java 21**, **Spring Boot 3.3.2** e **MySQL 8.0.28**.
 
 
 ---
@@ -151,9 +151,9 @@ Requer Java 21 e MySQL 8.0+
 ```bash
 git clone https://github.com/uLennon/Capiwallet.git
 ```
-2. Configure o banco de dados MySQL local com o schema esperado;
+2. Configure o banco de dados MySQL local com o schema, user e password;
 
-3. Copie o arquivo application-example.yml, renomeie para application.yml e substitua os valores de exemplo pelas suas credenciais reais;
+3. Renomeie o application-example.yml para application.yml e substitua os valores de exemplo pelas suas credenciais reais;
 
 4. Execute o projeto com o Maven:
 ```bash
