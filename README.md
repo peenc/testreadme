@@ -93,9 +93,9 @@ O desenvolvimento seguiu uma abordagem incremental, dividido nas seguintes etapa
 
 - Foram utilizadas as seguintes bibliotecas para a implementação dos testes unitários:
 
-    JUnit Jupiter (5.10.3): framework de testes moderno que oferece anotações e funcionalidades poderosas para escrita de testes claros e organizados.
+    - JUnit Jupiter (5.10.3): framework de testes moderno que oferece anotações e funcionalidades poderosas para escrita de testes claros e organizados.
 
-    Mockito Core (5.11.0): biblioteca de mocking utilizada para simular comportamentos de dependências e testar componentes isoladamente.
+    - Mockito Core (5.11.0): biblioteca de mocking utilizada para simular comportamentos de dependências e testar componentes isoladamente.
 
 ---
 
